@@ -13,13 +13,13 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 </p>
 
 <p align="center">
-  <img alt="License" src="./assets/versaopreta.png">
+  <img alt="License" src="./versaopreta.png">
 </p>
 
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src="./assets/versaobranca.png" width="100%">
+  <img alt="projeto DevLinks" src="./versaobranca.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
